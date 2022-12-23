@@ -1,6 +1,6 @@
 package JavaExample01;
 
-public class Drive02 {
+public class Drive {
     public static void main(String[] args) {
 
 //        Bus02 bus = new Bus02();
@@ -40,7 +40,7 @@ public class Drive02 {
 //        bus.setStatus(0);
 //        bus.statusChecker();
 
-        Taxi02 taxi = new Taxi02();
+        Taxi taxi = new Taxi();
         taxi.setMaxPassenger(4);
         taxi.setPay(3000);
 

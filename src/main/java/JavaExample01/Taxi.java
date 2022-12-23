@@ -1,6 +1,6 @@
 package JavaExample01;
 
-public class Taxi02 extends PublicTransport02{
+public class Taxi extends PublicTransport {
     int distance = 1;
     int payByDistance = 1000;
 

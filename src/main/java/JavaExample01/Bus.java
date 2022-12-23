@@ -1,6 +1,6 @@
 package JavaExample01;
 
-public class Bus02 extends PublicTransport02 {
+public class Bus extends PublicTransport {
 
     @Override
     public void assign() {

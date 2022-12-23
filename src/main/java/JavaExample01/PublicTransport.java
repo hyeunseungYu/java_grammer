@@ -1,6 +1,6 @@
 package JavaExample01;
 
-public abstract class PublicTransport02 {
+public abstract class PublicTransport implements PassengerCal{
     int vehicleNumber = 0;
     private int fuelLeft = 100;
     private int speed = 0;
