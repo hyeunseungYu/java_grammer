@@ -1,7 +1,7 @@
 package JavaExample01;
 
 public abstract class PublicTransport implements PassengerCal{
-    int vehicleNumber = 0;
+        int vehicleNumber = 0;
     private int fuelLeft = 100;
     private int speed = 0;
     protected int passenger = 0;
