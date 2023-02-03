@@ -1,3 +1,5 @@
+package tryCatch;
+
 public class TryCatch {
     public static void main(String[] args) {
         String data1 = null;
